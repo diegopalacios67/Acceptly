@@ -1,0 +1,37 @@
+{
+  "Stanford University": {
+    "location": {"city": "Stanford", "state": "California", "region": "West"},
+    "cost": {"tuition": 61500, "room_board": 19000, "estimated_total": 80500},
+    "admissions": {"acceptance_rate": 0.04, "avg_gpa": 3.95, "avg_test": 1510, "avg_ap_ib": 12, "avg_academic_index": 91, "std_academic_index": 5, "profile_expectation": "Exceptional academics, leadership, initiative, and research distinction."},
+    "profile": {"extracurricular_expectation": 8, "leadership_expectation": 4},
+    "majors": {"Computer Science": {"avg_gpa": 3.97, "avg_test": 1530, "selectivity": 0.95}, "Engineering": {"avg_gpa": 3.94, "avg_test": 1515, "selectivity": 0.9}, "Biology": {"avg_gpa": 3.9, "avg_test": 1485, "selectivity": 0.8}}
+  },
+  "University of Michigan": {
+    "location": {"city": "Ann Arbor", "state": "Michigan", "region": "Midwest"},
+    "cost": {"tuition": 52000, "room_board": 17000, "estimated_total": 69000},
+    "admissions": {"acceptance_rate": 0.18, "avg_gpa": 3.88, "avg_test": 1450, "avg_ap_ib": 10, "avg_academic_index": 83, "std_academic_index": 7, "profile_expectation": "Strong academics with meaningful extracurriculars and sustained engagement."},
+    "profile": {"extracurricular_expectation": 7, "leadership_expectation": 3},
+    "majors": {"Computer Science": {"avg_gpa": 3.9, "avg_test": 1490, "selectivity": 0.82}, "Business": {"avg_gpa": 3.82, "avg_test": 1430, "selectivity": 0.75}, "Psychology": {"avg_gpa": 3.7, "avg_test": 1380, "selectivity": 0.7}}
+  },
+  "University of Florida": {
+    "location": {"city": "Gainesville", "state": "Florida", "region": "Southeast"},
+    "cost": {"tuition": 28000, "room_board": 15000, "estimated_total": 43000},
+    "admissions": {"acceptance_rate": 0.32, "avg_gpa": 3.75, "avg_test": 1360, "avg_ap_ib": 8, "avg_academic_index": 74, "std_academic_index": 9, "profile_expectation": "Solid academics and a differentiated extracurricular profile."},
+    "profile": {"extracurricular_expectation": 6, "leadership_expectation": 2},
+    "majors": {"Computer Science": {"avg_gpa": 3.85, "avg_test": 1410, "selectivity": 0.7}, "Engineering": {"avg_gpa": 3.8, "avg_test": 1380, "selectivity": 0.68}, "Business": {"avg_gpa": 3.72, "avg_test": 1330, "selectivity": 0.6}}
+  },
+  "Arizona State University": {
+    "location": {"city": "Tempe", "state": "Arizona", "region": "West"},
+    "cost": {"tuition": 32000, "room_board": 14000, "estimated_total": 46000},
+    "admissions": {"acceptance_rate": 0.88, "avg_gpa": 3.54, "avg_test": 1230, "avg_ap_ib": 6, "avg_academic_index": 68, "std_academic_index": 11, "profile_expectation": "Broad academic readiness with solid involvement and consistent effort."},
+    "profile": {"extracurricular_expectation": 4, "leadership_expectation": 1},
+    "majors": {"Computer Science": {"avg_gpa": 3.7, "avg_test": 1285, "selectivity": 0.65}, "Business": {"avg_gpa": 3.5, "avg_test": 1215, "selectivity": 0.55}, "Psychology": {"avg_gpa": 3.45, "avg_test": 1180, "selectivity": 0.5}}
+  },
+  "University of Texas at Austin": {
+    "location": {"city": "Austin", "state": "Texas", "region": "South"},
+    "cost": {"tuition": 33000, "room_board": 16000, "estimated_total": 49000},
+    "admissions": {"acceptance_rate": 0.29, "avg_gpa": 3.83, "avg_test": 1410, "avg_ap_ib": 9, "avg_academic_index": 79, "std_academic_index": 8, "profile_expectation": "Top academic performance with demonstrated initiative in relevant areas."},
+    "profile": {"extracurricular_expectation": 6, "leadership_expectation": 2},
+    "majors": {"Computer Science": {"avg_gpa": 3.9, "avg_test": 1460, "selectivity": 0.76}, "Engineering": {"avg_gpa": 3.85, "avg_test": 1410, "selectivity": 0.72}, "Business": {"avg_gpa": 3.75, "avg_test": 1360, "selectivity": 0.68}}
+  }
+}
